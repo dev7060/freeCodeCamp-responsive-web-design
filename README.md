@@ -1,2 +1,2 @@
 # freeCodeCamp-responsive-web-design
-My submissions of the challenges
+My submissions to the challenges
