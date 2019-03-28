@@ -1,0 +1,12 @@
+@media (max-width: 350px) {
+  p {
+    font-size: 20px;
+  }
+}
+p {
+  display: flex;
+}
+#header{
+  position: fixed;
+  top: 0;
+}

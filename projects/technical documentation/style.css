@@ -1,0 +1,12 @@
+#navbar {
+    display: flex;
+    position: fixed;
+    width: 280px;
+    height: 100%;
+    top: 10px;
+}
+@media (max-width: 850px) {
+  p {
+    font-size: 20px;
+  }
+}
